@@ -48,5 +48,6 @@ A Java implementation of the following ADTs:
    ```bash
    git clone https://github.com/Crochowski/BSTAndGraphImplementations.git
    cd BSTAndGraphImplementations
+   ```
 2. Open the project in your IDE.
 3. Navigate to AbstractGraph.java or BinarySearchTree.java and run.
